@@ -1,4 +1,4 @@
-## Hi I'm Denise Milagro Jimenez! ## 
+## Hi I'm Denise Milagro Jimenez :) ## 
 🎓 ***Business Analytics Graduate Student | 🐍 Python & SQL Developer | 📊 Tableau & Power BI Analyst***
 
 Student Business Analyst at UC Irvine Paul Merage School of Business with strong foundation in data analysis, visualization, and predictive modeling. I enjoy turning raw data into actionable insights for smarter business decisions using Python, SQL, and Tableau. 
