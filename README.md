@@ -1,4 +1,4 @@
-## Hi there Business Analytics graduate student with a strong foundation in data analysis, visualization, and predictive modeling. I enjoy turning raw data into meaningful insights that drive smarter business decisions. My experience spans working with real-world datasets, building dashboards, and applying statistical and machine learning techniques to solve problems.
+## Hi there i'Business Analytics graduate student with a strong foundation in data analysis, visualization, and predictive modeling. I enjoy turning raw data into meaningful insights that drive smarter business decisions. My experience spans working with real world datasets, building dashboards, and applying statistical and machine learning techniques to solve problems.
 
 <!--
 **denisemj16/denisemj16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
