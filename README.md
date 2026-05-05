@@ -14,6 +14,9 @@ Student Business Analyst at **UC Irvine Paul Merage School of Business** with st
 - ***Visualization:*** Tableau, Power BI  
 - ***Data Analysis:*** Excel (Pivot Tables, Data Analysis)  
 - ***Core Skills:*** Data Cleaning, EDA, Predictive Modeling, Forecasting
+
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Denise%20Jimenez-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/denisejiimenez)
 <!--
 **denisemj16/denisemj16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
